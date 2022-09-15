@@ -2,18 +2,18 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |  |
-|2.| NIM        |  |
-|3. |Link github |  |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
-|7| Level Jyu Codewars||
+|1. |Nama     |Rafdian Dwiprayata  |
+|2.| NIM        |2210312098  |
+|3. |Link github |https://github.com/Rafdian  |
+|4.| Link Edabit |https://edabit.com/user/i8rzg34nGpbJeCM4v  |
+|5|Exp Edabit   |60   |
+|6| Link Codewars|https://www.codewars.com/users/Rafdian    |
+|7| Level Jyu Codewars|8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
 `
-Nikolas Virnandi Anggoro Putra_2210312020_tanggal(20/08/22)` 
+Rafdian Dwiprayata_2210312098_tanggal(08/09/22)` 
 
 *Berikut ini merupakan file markdown <br/> tipe file ini digunakan untuk menuliskan*
 1. Dokumentasi aplikasi
