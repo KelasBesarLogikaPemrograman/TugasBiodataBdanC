@@ -6,9 +6,9 @@
 |2.| NIM        | 2210312062 |
 |3. |Link github | https://github.com/widyarj |
 |4.| Link Edabit | https://edabit.com/user/DrGnbCXzMrSLP7ypP |
-|5|Exp Edabit   | 75 |
+|5|Exp Edabit   | 75 xp |
 |6| Link Codewars| https://www.codewars.com/users/widyarj |
-|7| Level Jyu Codewars| 7 |
+|7| Level Jyu Codewars| 7 kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
