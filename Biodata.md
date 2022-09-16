@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |  |
-|2.| NIM        |  |
-|3. |Link github |  |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
-|7| Level Jyu Codewars||
+|1. |Nama      | Widya Rinjani |
+|2.| NIM        | 2210312062 |
+|3. |Link github | https://github.com/widyarj |
+|4.| Link Edabit | https://edabit.com/user/DrGnbCXzMrSLP7ypP |
+|5|Exp Edabit   | 75 |
+|6| Link Codewars| https://www.codewars.com/users/widyarj |
+|7| Level Jyu Codewars| 7 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
