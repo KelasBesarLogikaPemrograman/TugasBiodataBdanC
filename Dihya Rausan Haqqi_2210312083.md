@@ -2,12 +2,12 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Marieke Zenianti |
-|2.| NIM        |2210312071  |
-|3. |Link github | https://github.com/mariekezeni |
-|4.| Link Edabit | https://edabit.com/user/49tYM6wzcna4cBC7q |
-|5|Exp Edabit   |  60 XP |
-|6| Link Codewars|  https://www.codewars.com/users/mariekezeni  |
+|1. |Nama     | Dihya Rausan Haqqi|
+|2.| NIM        |2210312083  |
+|3. |Link github | https://github.com/dihyarausanhaqqi |
+|4.| Link Edabit | https://edabit.com/user/AZ4hPcS9zJb2kKLGc |
+|5|Exp Edabit   |  75 xp |
+|6| Link Codewars| https://www.codewars.com/users/dihyarausanhaqqi |
 |7| Level Jyu Codewars|8 kyu|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
