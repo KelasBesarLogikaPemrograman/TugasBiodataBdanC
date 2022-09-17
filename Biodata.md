@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |  |
-|2.| NIM        |  |
-|3. |Link github |  |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
-|7| Level Jyu Codewars||
+|1. |Nama     | Daniel Steven Santoso |
+|2.| NIM        | 2210312038 |
+|3. |Link github | https://github.com/danielstven |
+|4.| Link Edabit | https://edabit.com/user/iemmApntMF2KaWgmp |
+|5|Exp Edabit   | 65 |
+|6| Link Codewars|  https://www.codewars.com/users/danielstven  |
+|7| Level Jyu Codewars| 7 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
