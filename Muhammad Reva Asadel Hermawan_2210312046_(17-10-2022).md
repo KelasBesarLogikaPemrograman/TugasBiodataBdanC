@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |  |
-|2.| NIM        |  |
-|3. |Link github |  |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
-|7| Level Jyu Codewars||
+|1. |Nama     | Muhammad Reva Asadel Hermawan |
+|2.| NIM        | 2210312046 |
+|3. |Link github | https://github.com/RevaAsadel |
+|4.| Link Edabit | https://edabit.com/user/TQKqcYtob6bTig5hw |
+|5|Exp Edabit   | 60 xp  |
+|6| Link Codewars|  https://www.codewars.com/users/RevaAsadel  |
+|7| Level Jyu Codewars|60 kyu|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
