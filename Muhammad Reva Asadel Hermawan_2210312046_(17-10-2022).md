@@ -8,7 +8,7 @@
 |4.| Link Edabit | https://edabit.com/user/TQKqcYtob6bTig5hw |
 |5|Exp Edabit   | 60 xp  |
 |6| Link Codewars|  https://www.codewars.com/users/RevaAsadel  |
-|7| Level Jyu Codewars|60 kyu|
+|7| Level Jyu Codewars|8 kyu|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
