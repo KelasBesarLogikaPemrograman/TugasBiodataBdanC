@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |  |
-|2.| NIM        |  |
-|3. |Link github |  |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
-|7| Level Jyu Codewars||
+|1. |Nama     | Ahmad Ryan Fadhilah |
+|2.| NIM        |2210312060|
+|3. |Link github | https://github.com/AhmadRyan |
+|4.| Link Edabit | https://edabit.com/user/Gep3Dum4cEdTATjpN |
+|5|Exp Edabit   | 70 exp  |
+|6| Link Codewars|  https://www.codewars.com/users/AhmadRyan  |
+|7| Level Jyu Codewars|7 kyu|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
