@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |  |
-|2.| NIM        |  |
-|3. |Link github |  |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
-|7| Level Jyu Codewars||
+|1. |Nama     |Siti Maria Ulfah|
+|2.| NIM        |2210312093|
+|3. |Link github |https://github.com/mariaulfah11|
+|4.| Link Edabit |https://edabit.com/user/75C8ZfEGJJ8pRGFff|
+|5|Exp Edabit   |115 XP|
+|6| Link Codewars|https://www.codewars.com/users/mariaulfah11|
+|7| Level Jyu Codewars|7 Kyu|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
