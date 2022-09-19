@@ -2,12 +2,12 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Alodia Thifaal Aaqila Geta |
-|2.| NIM        | 2210312058 |
-|3. |Link github | https://github.com/alodiatag |
-|4.| Link Edabit | https://edabit.com/user/RbGuqAAZxwyqHvaCh |
+|1. |Nama     | Shafa Afifah Dzikra |
+|2.| NIM        | 2210312037 |
+|3. |Link github | https://github.com/ShafAfifah |
+|4.| Link Edabit | https://edabit.com/user/YiMzpfpTuadEj3Xge |
 |5|Exp Edabit   | 75 |
-|6| Link Codewars| https://www.codewars.com/users/alodiatag |
+|6| Link Codewars| https://www.codewars.com/users/ShafAfifah|
 |7| Level Jyu Codewars|8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
