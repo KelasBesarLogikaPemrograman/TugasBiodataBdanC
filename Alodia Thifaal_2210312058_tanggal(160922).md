@@ -2,12 +2,12 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Alodia Thifaal Aaqila Geta |
-|2.| NIM        | 2210312058 |
-|3. |Link github | https://github.com/alodiatag |
-|4.| Link Edabit | https://edabit.com/user/RbGuqAAZxwyqHvaCh |
-|5|Exp Edabit   | 75 |
-|6| Link Codewars| https://www.codewars.com/users/alodiatag |
+|1. |Nama     | Eliana Putri Dinanti |
+|2.| NIM        | 2210312036 |
+|3. |Link github | https://github.com/ElianaputriD |
+|4.| Link Edabit |  |https://edabit.com/user/X3byLNMeKwzv9nmwo
+|5|Exp Edabit   | 50 |
+|6| Link Codewars|https://www.codewars.com/users/ElianaputriD  |
 |7| Level Jyu Codewars|8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
