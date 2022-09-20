@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Alodia Thifaal Aaqila Geta |
-|2.| NIM        | 2210312058 |
-|3. |Link github | https://github.com/alodiatag |
-|4.| Link Edabit | https://edabit.com/user/RbGuqAAZxwyqHvaCh |
-|5|Exp Edabit   | 75 |
-|6| Link Codewars| https://www.codewars.com/users/alodiatag |
-|7| Level Jyu Codewars|8|
+|1. |Nama     | Raidha Karimah|
+|2.| NIM        | 2210312074 |
+|3. |Link github | https://github.com/RaidhaKRMH |
+|4.| Link Edabit | https://edabit.com/user/yXmrzE3w24GbCSKS7 |
+|5|Exp Edabit   | 75 xp |
+|6| Link Codewars| https://www.codewars.com/users/RaidhaKRMH |
+|7| Level Jyu Codewars| 7 kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
