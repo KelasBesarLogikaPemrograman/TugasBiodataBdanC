@@ -2,12 +2,12 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Alodia Thifaal Aaqila Geta |
-|2.| NIM        | 2210312058 |
-|3. |Link github | https://github.com/alodiatag |
-|4.| Link Edabit | https://edabit.com/user/RbGuqAAZxwyqHvaCh |
+|1. |Nama     | Diyan Filza Zahira |
+|2.| NIM        | 2210312045 |
+|3. |Link github | https://github.com/DiyanFilzaZ |
+|4.| Link Edabit | https://edabit.com/user/6rj7XyG8JoxRG7ZXd |
 |5|Exp Edabit   | 75 |
-|6| Link Codewars| https://www.codewars.com/users/alodiatag |
+|6| Link Codewars| https://www.codewars.com/users/DiyanFilza |
 |7| Level Jyu Codewars|8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
