@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Ali Burha  |
-|2.| NIM        | 2210312077 |
-|3. |Link github | https://github.com/burz881 |
-|4.| Link Edabit | https://edabit.com/user/syx7wQx3dDJiCC6jt |
-|5|Exp Edabit   | 55 |
-|6| Link Codewars| https://www.codewars.com/users/burz881 |
-|7| Level Jyu Codewars|8|
+|1. |Nama     |  |
+|2.| NIM        |  |
+|3. |Link github |  |
+|4.| Link Edabit |  |
+|5|Exp Edabit   |   |
+|6| Link Codewars|    |
+|7| Level Jyu Codewars||
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
