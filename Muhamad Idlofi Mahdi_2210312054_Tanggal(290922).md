@@ -3,7 +3,7 @@
 |No | Data  | Isian|
 |---|:-------:|------:|
 |1. |Nama     | Muhamad idlofi Mahdi|
-|2.| NIM        | 2210312058 |
+|2.| NIM        | 2210312054 |
 |3. |Link github | https://github.com/DDOFI |
 |4.| Link Edabit | https://edabit.com/user/FZHSegF5BMfc8nfvq |
 |5|Exp Edabit   | 70 |
