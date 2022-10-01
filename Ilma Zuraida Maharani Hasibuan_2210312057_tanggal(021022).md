@@ -2,12 +2,12 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Alodia Thifaal Aaqila Geta |
-|2.| NIM        | 2210312058 |
-|3. |Link github | https://github.com/alodiatag |
-|4.| Link Edabit | https://edabit.com/user/RbGuqAAZxwyqHvaCh |
-|5|Exp Edabit   | 75 |
-|6| Link Codewars| https://www.codewars.com/users/alodiatag |
+|1. |Nama     | Ilma Zuraida Maharani Hasibuan |
+|2.| NIM        | 2210312057 |
+|3. |Link github | https://github.com/ilmazuraida |
+|4.| Link Edabit | https://edabit.com/user/A8T7NSLBYT7Cn3RQx |
+|5|Exp Edabit   | 55 |
+|6| Link Codewars| https://www.codewars.com/users/ilmazuraida |
 |7| Level Jyu Codewars|8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
