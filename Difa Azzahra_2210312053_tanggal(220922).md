@@ -2,12 +2,12 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Alodia Thifaal Aaqila Geta |
-|2.| NIM        | 2210312058 |
-|3. |Link github | https://github.com/alodiatag |
-|4.| Link Edabit | https://edabit.com/user/RbGuqAAZxwyqHvaCh |
-|5|Exp Edabit   | 75 |
-|6| Link Codewars| https://www.codewars.com/users/alodiatag |
+|1. |Nama     | Difa Azzahra |
+|2.| NIM        | 2210312053 |
+|3. |Link github | https://github.com/difazz24 |
+|4.| Link Edabit | https://edabit.com/user/oMy2ZBFgc5ZMub5Hg |
+|5|Exp Edabit   | 95 |
+|6| Link Codewars| https://www.codewars.com/users/difa24 |
 |7| Level Jyu Codewars|8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
