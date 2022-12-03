@@ -8,7 +8,7 @@
 |4.| Link Edabit | https://edabit.com/user/XYPwPNfogBRggYomi |
 |5|Exp Edabit   | 75 XP |
 |6| Link Codewars| https://www.codewars.com/users/MFarhanInarta |
-|7| Level Jyu Codewars| 8 Kyu |
+|7| Level Jyu Codewars| 6 Kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
