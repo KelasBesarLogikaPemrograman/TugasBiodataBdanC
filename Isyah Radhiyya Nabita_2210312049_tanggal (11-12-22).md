@@ -6,9 +6,9 @@
 |2.| NIM        |2210312049  |
 |3. |Link github | https://github.com/isyaahrn |
 |4.| Link Edabit | https://edabit.com/user/2bDreK6iLBGFzmDYN |
-|5|Exp Edabit   | 155 XP  |
+|5|Exp Edabit   | 345 XP  |
 |6| Link Codewars| https://www.codewars.com/users/isyaahrn   |
-|7| Level Jyu Codewars|8|
+|7| Level Jyu Codewars|6|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
