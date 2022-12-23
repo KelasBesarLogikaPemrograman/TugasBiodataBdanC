@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     | Muhammad Raka Zalava |
-|2.| NIM        | 2210312041 |
-|3. |Link github | https://github.com/MRakaZalava |
-|4.| Link Edabit | https://edabit.com/user/KHr9fbgiKh68pAdiM |
-|5|Exp Edabit   | 125 |
-|6| Link Codewars| https://www.codewars.com/users/MRakaZalava |
-|7| Level Jyu Codewars|6|
+|1| Nama                | Muhammad Raka Zalava |
+|2| NIM                 | 2210312041 |
+|3| Link github         | https://github.com/MRakaZalava |
+|4| Link Edabit         | https://edabit.com/user/KHr9fbgiKh68pAdiM |
+|5| Exp Edabit          | 125 |
+|6| Link Codewars       | https://www.codewars.com/users/MRakaZalava |
+|7| Level Jyu Codewars  | 6 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
