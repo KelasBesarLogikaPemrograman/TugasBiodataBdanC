@@ -6,7 +6,7 @@
 |2.| NIM        | 2210312070 |
 |3. |Link github | https://github.com/alyssaa17 |
 |4.| Link Edabit | https://edabit.com/user/7widhycsvMMxuQDCo |
-|5|Exp Edabit   | 325 |
+|5|Exp Edabit   | 345 |
 |6| Link Codewars| https://www.codewars.com/users/alyssaaa17 |
 |7| Level Jyu Codewars|5|
 
