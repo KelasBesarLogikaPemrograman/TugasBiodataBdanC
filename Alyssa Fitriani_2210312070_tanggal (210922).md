@@ -6,9 +6,9 @@
 |2.| NIM        | 2210312070 |
 |3. |Link github | https://github.com/alyssaa17 |
 |4.| Link Edabit | https://edabit.com/user/7widhycsvMMxuQDCo |
-|5|Exp Edabit   | 75 |
+|5|Exp Edabit   | 305 |
 |6| Link Codewars| https://www.codewars.com/users/alyssaaa17 |
-|7| Level Jyu Codewars|8|
+|7| Level Jyu Codewars|5|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
