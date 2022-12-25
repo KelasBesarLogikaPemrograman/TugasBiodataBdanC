@@ -8,7 +8,7 @@
 |4.| Link Edabit | https://edabit.com/user/FZHSegF5BMfc8nfvq |
 |5|Exp Edabit   | 70 |
 |6| Link Codewars| https://www.codewars.com/users/DDOFI |
-|7| Level Jyu Codewars|6|
+|7| Level Jyu Codewars|5|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
