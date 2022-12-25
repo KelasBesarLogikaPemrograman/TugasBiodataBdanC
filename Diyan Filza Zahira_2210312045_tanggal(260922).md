@@ -8,7 +8,7 @@
 |4.| Link Edabit | https://edabit.com/user/6rj7XyG8JoxRG7ZXd |
 |5|Exp Edabit   | 75 |
 |6| Link Codewars| https://www.codewars.com/users/DiyanFilza |
-|7| Level Jyu Codewars|8|
+|7| Level Jyu Codewars|6|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
