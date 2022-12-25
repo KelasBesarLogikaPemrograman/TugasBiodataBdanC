@@ -8,7 +8,7 @@
 |4.| Link Edabit | https://edabit.com/user/qJJXRTk3EfNRAeWDa |
 |5|Exp Edabit   | 105 |
 |6| Link Codewars| https://www.codewars.com/users/KhusnulJihad |
-|7| Level Jyu Codewars|5 kyu|
+|7| Level Kyu Codewars|5 Kyu|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
