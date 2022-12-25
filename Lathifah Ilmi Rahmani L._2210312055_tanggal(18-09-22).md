@@ -8,6 +8,6 @@
 |4.| Link Edabit |https://edabit.com/user/bnGGhuEX9JaXsfS2A  |
 |5|Exp Edabit   | 105 XP  |
 |6| Link Codewars|  https://www.codewars.com/users/Lathifah%20Ilmi/badges/large  |
-|7| Level Jyu Codewars|8 Kyu|
+|7| Level Jyu Codewars|6 Kyu|
 
 
