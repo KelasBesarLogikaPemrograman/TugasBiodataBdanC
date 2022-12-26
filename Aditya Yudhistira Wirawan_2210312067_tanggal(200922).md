@@ -6,7 +6,7 @@
 |2.| NIM        | 2210312067 |
 |3. |Link github | https://github.com/adityayw |
 |4.| Link Edabit | https://edabit.com/user/ee53Hbx2QX3JCsqjg |
-|5|Exp Edabit   | 75 |
+|5|Exp Edabit   | 235 |
 |6| Link Codewars| https://www.codewars.com/users/adityayw |
 |7| Level Jyu Codewars|6 kyu|
 
